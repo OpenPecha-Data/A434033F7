@@ -1,0 +1,47 @@
+segment_sources:
+  P06DCCD44:
+    type: origin_type
+    relation: translation
+    language: en
+  PF07B7735:
+    type: origin_type
+    relation: translation
+    language: de
+  PB18C6386:
+    type: origin_type
+    relation: translation
+    language: es
+  P28111B11:
+    type: origin_type
+    relation: translation
+    language: fr
+  P55A338E0:
+    type: origin_type
+    relation: translation
+    language: nl
+  P10546411:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3b335c7962014c1e80c731445e8f9397:
+    P06DCCD44: 1414cd75a57b4fddbf59198a84bdccf2
+    PF07B7735: ec02c3bf5fba407c882c72ac3ac3c5dd
+    PB18C6386: 3be9b179164848158b25759b306230a5
+    P28111B11: d418c5855ecc45fb8021a0c66ce4988c
+    P55A338E0: 8f87d73ac0004f4fba529bfe5e766100
+    P10546411: 1e13a124a7b0406fa0c2413a025797b9
+  ae57384b96c04f6ea55d3ebe43ccbc59:
+    P06DCCD44: a668037758e54397822a01f7553a8b6d
+    PF07B7735: 9b713d9fb2784bab8e0e426585d9acb4
+    PB18C6386: 14d27d86873a4ad1a6d9b1e00414b2a0
+    P28111B11: f2b82989cc4b4794b39e32b5008f44ff
+    P55A338E0: 5617faf5c7a34057a9b475b7c53f74d6
+    P10546411: dace1ecfaf13428b9177060450bf5604
+  d702a73b3afb469e94c8565325eb6327:
+    P06DCCD44: d1d883cb7e8d4071901d4f6af95cdfbf
+    PF07B7735: 9f2e136bccf24d0b864d2a53ec7253e7
+    PB18C6386: 9795f1f97e454be7985be9ce8da001bb
+    P28111B11: 1390d744605644389234c42e523fa697
+    P55A338E0: 86eccd2ec1db4d0799a2c7b8750d2d93
+    P10546411: 43ce6b4afddd4e8e986a78cb1f2651c3

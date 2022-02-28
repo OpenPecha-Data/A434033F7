@@ -1,0 +1,26 @@
+segment_sources:
+  P06DCCD44:
+    type: origin_type
+    relation: translation
+    language: en
+  PB18C6386:
+    type: origin_type
+    relation: translation
+    language: es
+  P10546411:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dbedc8383936462bb617311a5dcb068e:
+    P06DCCD44: 7aae3f926f9b408da4d806b31e85669f
+    PB18C6386: be4356eeb6c148458c15f064892a0c53
+    P10546411: 70f0731b7c4447b39c7fe6280fa2dd9b
+  09cd80c0bb9e41d8a55c47bc408fe53f:
+    P06DCCD44: ede13e685ba643f28c3e93aa460ee1fd
+    PB18C6386: f7c83256c0734b03b7029cc313aae354
+    P10546411: 17f13a4896c4427c802324d570e710c2
+  a6952653a2e34bbfb4441e580b95a8aa:
+    P06DCCD44: 637312e7cd6f4ffca358d0ac3b3deb47
+    PB18C6386: 17e1715d0fdc4048a1c8a76850b63b69
+    P10546411: bbee6e37916548879c7b24b42f617597
